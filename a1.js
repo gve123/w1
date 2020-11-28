@@ -98,7 +98,7 @@ document.getElementById("img18").src= "img/g18.png";
 document.getElementById("a18").href="https://gve123.github.io/w1/g18.html";
 document.getElementById("a18").text= "(g18) Electricidad, Electrónica y Refrigeración.";  
   
-document.getElementById("img19").src= "img/19.png";
+document.getElementById("img19").src= "img/g19.png";
 document.getElementById("a19").href="https://gve123.github.io/w1/g19.html";
 document.getElementById("a19").text= "(g19) Saber Electronica!!!";   
   
