@@ -20,10 +20,6 @@ document.getElementById("a4").href = "https://www.facebook.com/groups/2977701305
 document.getElementById("a4").innerHTML = "(g4) Reparaciones Caseras";
 
 
-document.getElementById("imgr4").src="img/g4.png"
-document.getElementById("a4").href = "https://www.facebook.com/groups/2977701305597766/";
-document.getElementById("a4").innerHTML = "(g4) Reparaciones Caseras";
-
 
 document.getElementById("imgr5").src="img/g5.png"
 document.getElementById("a5").href = "https://www.facebook.com/groups/2485289741730986/";
