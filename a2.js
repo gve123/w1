@@ -447,14 +447,6 @@ document.getElementById('txt63').innerHTML = 	"✅💥Como lograr que los focos 
 												"👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇<br />"+
 												"https://youtu.be/tZ7oN47uC3o";
 
-							
-document.getElementById("img63").src= "imgv/63.png";
-document.getElementById('txt63').innerHTML = 													
-
-
-
-
-
 
 												
 												
