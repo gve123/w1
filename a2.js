@@ -178,7 +178,7 @@ document.getElementById('txt13').innerHTML = "🔥✅Como encender un foco desde
 											"https://youtu.be/b5vugs1xYiQ";
   
 document.getElementById("img14").src= "imgv/14.png";
-document.getElementById('txt14').innerHTML =  "🔥⚠️7 errores en instalaciones eléctricas caseras que debes evitar‼️💥😮<br />"+
+document.getElementById('txt14').innerHTML =  "🔥⚠️7 errores en instalaciones eléctricas caseras que debes evitar Di Gracias y aqui les dejo el video‼️💥😮<br />"+
 											"👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇<br />"+
 											"https://youtu.be/Lr09BWA6ZaA"; 
   
@@ -248,12 +248,12 @@ document.getElementById('txt27').innerHTML ="✅💥Como hacer una antena wifi d
 										"https://youtu.be/RAQ6czAUuK8";
 											
 document.getElementById("img28").src= "imgv/28.png";
-document.getElementById('txt28').innerHTML ="✅💥Tutorial básico sobre resistencias y capacitores‼️😁💥💯 <br />"+
+document.getElementById('txt28').innerHTML ="✅💥Tutorial básico sobre resistencias y capacitores Di Gracias y aqui les dejo el video‼️😁💥💯 <br />"+
 										"⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️<br />"+
 										"https://youtu.be/vJnGSqnFgvw";	
 											
 document.getElementById("img29").src= "imgv/29.png" ;
-document.getElementById('txt29').innerHTML ="✅💥Tutorial de electrónica Inductores y diodos‼️😁💥💯 <br />"+
+document.getElementById('txt29').innerHTML ="✅💥Tutorial de electrónica Inductores y diodos Di Gracias y aqui les dejo el video‼️😁💥💯 <br />"+
 										"👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇<br />"+
 										"https://youtu.be/vJnGSqnFgvw";	
 											
@@ -288,7 +288,7 @@ document.getElementById('txt35').innerHTML = 	"😮✅Como hacer un panel solar 
 												"https://youtu.be/HPq6rYuP5v4";
 											
 document.getElementById("img36").src= "imgv/36.png";
-document.getElementById('txt36').innerHTML =	"✅🔌Tutorial fuentes conmutadas Switching Power Suply‼️✌️😁<br />"+
+document.getElementById('txt36').innerHTML =	"✅🔌Tutorial fuentes conmutadas Switching Power Suply Di Gracias y aqui les dejo el video‼️✌️😁<br />"+
 												"👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇<br />"+
 												"https://youtu.be/Tqhh2-jZkWg";
 											
@@ -388,13 +388,13 @@ document.getElementById('txt53').innerHTML =	"✅💥7 errores que acortan la vi
 											
 											
 document.getElementById("img54").src= "imgv/54.png";
-document.getElementById('txt54').innerHTML =	"✅💥Tutorial Electrónica básica TRANSISTORES‼️😊💯💥 <br />"+
+document.getElementById('txt54').innerHTML =	"✅💥Tutorial Electrónica básica TRANSISTORES Di Gracias y aqui les dejo el video‼️😊💯💥 <br />"+
 												"👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇 <br />"+
 												"https://youtu.be/lN0AfX0XI8s";									
 											
 											
 document.getElementById("img55").src= "imgv/55.png";
-document.getElementById('txt55').innerHTML = 	"✅💥Tutorial electrónica básica REGULADORES‼️😊💯💥 <br />"+
+document.getElementById('txt55').innerHTML = 	"✅💥Tutorial electrónica básica REGULADORES Di Gracias y aqui les dejo el video‼️😊💯💥 <br />"+
 												"⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️ <br />"+
 												"https://www.facebook.com/watch/?v=730213121049943";
 												
