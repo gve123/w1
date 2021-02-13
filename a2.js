@@ -149,7 +149,7 @@ document.getElementById('txt7').innerHTML = "✅💥10 cosas que puedes hacer co
   
 document.getElementById("img8").src= "imgv/8.png";
 document.getElementById('txt8').innerHTML = "✅💥Como hacer un Inversor de voltaje de 12v a 120v muy fácil‼️<br />"+
-											"Escribe GRACIAS para mas videos💥<br />"+
+											"Di OK si me leiste y pincha la foto para ver el video!💥<br />"+
 											"https://youtu.be/D8nhm7_y6PY"; 
   
 document.getElementById("img9").src= "imgv/9.png";
