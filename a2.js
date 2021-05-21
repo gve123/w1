@@ -463,6 +463,11 @@ document.getElementById('txt66').innerHTML = 	"✅💥7 TRUCOS para ahorrar 50% 
 												"https://youtu.be/dKbOT3cLsRo";	
 
 
+document.getElementById("img67").src= "imgv/67.png";
+document.getElementById('txt67').innerHTML = 	"✅💥7 Increíbles trucos eléctricos de la vida real!‼️🔌😮💥✅<br />"+
+												"Di GRACIAS para saber que estas activo👇<br />"+
+												"https://youtu.be/LNheR5T6pr4";	
+
 									
 function copy(i) {	
 	
