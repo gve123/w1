@@ -5,7 +5,7 @@
 let div1 = document.getElementById('contenedor1');
 
  
-for (var k = 1 ; k <= 64; k++) {
+for (var k = 1 ; k <= 65; k++) {
 
 	div1.innerHTML += 
     '<div class="numero" id="num'+k+'">'+k+'</div>'+
@@ -50,7 +50,7 @@ var hoy = new Date();
 var dia = hoy.getDate();
 var mes = hoy.getMonth() + 1;  
   
-for (var j = 1; j <= 64; j++) {
+for (var j = 1; j <= 65; j++) {
   
 	var checked = JSON.parse(localStorage.getItem("checkbox"+n+"#"+j));
     if (checked == true)
@@ -452,7 +452,10 @@ document.getElementById('txt64').innerHTML = 	"✅💥Como hacer un cautin caser
 												"Di GRACIAS y aqui les dejo esta genial idea👇<br />"+
 												"https://youtu.be/nfSOs3Hus4w";
 												
-												
+document.getElementById("img64").src= "imgv/65.png";
+document.getElementById('txt64').innerHTML = 	"✅💥Como cargar una bateria con simple truco! Genial Invento!‼️🔌😮💥✅<br />"+
+												"Di GRACIAS y aqui les dejo esta genial idea👇<br />"+
+												"https://youtu.be/ExWs49YVd6g";												
 
 
 									
