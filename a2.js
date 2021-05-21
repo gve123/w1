@@ -452,8 +452,8 @@ document.getElementById('txt64').innerHTML = 	"✅💥Como hacer un cautin caser
 												"Di GRACIAS y aqui les dejo esta genial idea👇<br />"+
 												"https://youtu.be/nfSOs3Hus4w";
 												
-document.getElementById("img64").src= "imgv/65.png";
-document.getElementById('txt64').innerHTML = 	"✅💥Como cargar una bateria con simple truco! Genial Invento!‼️🔌😮💥✅<br />"+
+document.getElementById("img65").src= "imgv/65.png";
+document.getElementById('txt65').innerHTML = 	"✅💥Como cargar una bateria con simple truco! Genial Invento!‼️🔌😮💥✅<br />"+
 												"Di GRACIAS y aqui les dejo esta genial idea👇<br />"+
 												"https://youtu.be/ExWs49YVd6g";												
 
